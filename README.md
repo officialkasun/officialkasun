@@ -6,7 +6,7 @@ Passionate about building scalable, user-friendly applications and making tech e
 
 ## 💫 About Me:
 * 🔭 I’m currently building projects across **Web, Mobile, and Software Development**.
-* 🎓 Pursuing a **BSc. (Hons.) Computing Science in Software Engineering** at the **University of Kingston, UK**.
+* 🎓 **BSc. (Hons.) Computing Science (Software Engineering)** at the **University of Kingston, UK** with **First Class**.
 * 🧠 Deeply interested in **Object-Oriented Programming (OOP)**, specifically utilizing **Java** and **Python** for **AI and Machine Learning** applications.
 * 💬 Founder & Freelance Lecturer at **PRO LEARNERS LK**, and creator of the **[officialkasun](https://youtube.com/@officialkasun)** YouTube channel where I share programming knowledge.
 * 🌱 Continually learning and exploring modern web technologies, frameworks, and scalable architectures.
