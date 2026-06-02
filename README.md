@@ -1,12 +1,13 @@
 # Hi there, I'm Kasun Madhusanka Jayasinghe! 👋
 
-### 👨‍💻 Software Engineering Undergraduate | 🎓 Freelance Lecturer | 🚀 Tech Content Creator
+### 👨‍💻 Software Engineer | 🎓 Freelance Lecturer | 🚀 Tech Content Creator
 
 Passionate about building scalable, user-friendly applications and making tech education accessible. Whether I'm developing software, exploring the latest in artificial intelligence, or teaching the next generation of developers, I love turning complex problems into elegant solutions.
 
 ## 💫 About Me:
 * 🔭 I’m currently building projects across **Web, Mobile, and Software Development**.
 * 🎓 **BSc. (Hons.) Computing Science (Software Engineering)** at the **University of Kingston, UK** with **First Class**.
+* 🏛️ Owner / Founder, **-Suwesna International (PVT) LTD**
 * 🧠 Deeply interested in **Object-Oriented Programming (OOP)**, specifically utilizing **Java** and **Python** for **AI and Machine Learning** applications.
 * 💬 Founder & Freelance Lecturer at **PRO LEARNERS LK**, and creator of the **[officialkasun](https://youtube.com/@officialkasun)** YouTube channel where I share programming knowledge.
 * 🌱 Continually learning and exploring modern web technologies, frameworks, and scalable architectures.
